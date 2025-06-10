@@ -1,4 +1,3 @@
-````markdown
 # 🧠 Gaben – Minecraft Bedrock LLM Assistant
 
 Gaben is a powerful in-game assistant for **Minecraft Bedrock Edition**, powered by a locally hosted LLM via [Ollama](https://ollama.com/). Just type `@gaben` in chat, and he’ll respond with information you provide him. Useful for new players wanting to learn about your server!
