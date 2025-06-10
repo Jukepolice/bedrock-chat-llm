@@ -103,6 +103,6 @@ If no keyword matches, Gaben will fall back to the LLM to generate a helpful rep
 
 ## 📜 License
 
-MIT License — free to use, modify, and distribute.
+MIT License - free to use, modify, and distribute.
 
 
