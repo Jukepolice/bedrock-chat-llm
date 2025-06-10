@@ -1,0 +1,202 @@
+[
+    {
+        "question_keywords": [
+            "how to craft",
+            "crafting",
+            "make item",
+            "how to make",
+            "how do i craft",
+            "crafting recipe",
+            "craft",
+            "build item"
+        ],
+        "answer": "Use a crafting table to combine materials based on recipes. You can find recipes in the recipe book or learn them by gathering materials."
+    },
+    {
+        "question_keywords": [
+            "how to tame",
+            "tame pet",
+            "tame animals",
+            "how to tame wolf",
+            "tame horse",
+            "how to get dog",
+            "tame cat",
+            "taming"
+        ],
+        "answer": "To tame a wolf, use bones. To tame a cat, use raw fish. To tame a horse, ride it repeatedly until it stops bucking."
+    },
+    {
+        "question_keywords": [
+            "how to enchant",
+            "use enchantment table",
+            "how to enchant gear",
+            "enchanting",
+            "apply enchantment",
+            "how to use anvil"
+        ],
+        "answer": "Use an enchantment table with experience levels and lapis lazuli to enchant gear. You can also use an anvil to combine enchanted items or apply enchanted books."
+    },
+    {
+        "question_keywords": [
+            "best armor",
+            "how to get netherite",
+            "strongest gear",
+            "best weapon",
+            "armor tier list",
+            "gear upgrade",
+            "armor upgrade"
+        ],
+        "answer": "Netherite armor is the strongest. Craft it by upgrading diamond armor at a smithing table with a Netherite Ingot."
+    },
+    {
+        "question_keywords": [
+            "where to find diamonds",
+            "diamond level",
+            "mine diamonds",
+            "how to get diamonds",
+            "diamond y level"
+        ],
+        "answer": "Diamonds are most commonly found between Y levels  58 and  64. Use an iron or better pickaxe to mine them."
+    },
+    {
+        "question_keywords": [
+            "how to go to nether",
+            "nether portal",
+            "enter nether",
+            "go to the nether",
+            "make nether portal"
+        ],
+        "answer": "Build a 4x5 obsidian rectangle (corners optional), then light it with flint and steel to enter the Nether."
+    },
+    {
+        "question_keywords": [
+            "how to go to end",
+            "end portal",
+            "fight ender dragon",
+            "how to get to end",
+            "how to find stronghold"
+        ],
+        "answer": "Find a stronghold using Eye of Enders, then activate the End Portal frame with Eyes of Ender to enter the End."
+    },
+    {
+        "question_keywords": [
+            "how to breed animals",
+            "breed cows",
+            "make animals breed",
+            "how to get baby animals",
+            "animal breeding"
+        ],
+        "answer": "Feed animals their favorite food (wheat for cows and sheep, carrots for pigs, seeds for chickens) to breed them."
+    },
+    {
+        "question_keywords": [
+            "how to survive first night",
+            "first night tips",
+            "beginner guide",
+            "start game",
+            "early game",
+            "first day"
+        ],
+        "answer": "Collect wood, make tools, craft a shelter, and get food. Light your area with torches and stay safe until daylight."
+    },
+    {
+        "question_keywords": [
+            "commands",
+            "cheats",
+            "how to use commands",
+            "enable cheats",
+            "command list",
+            "tp",
+            "gamemode",
+            "give command"
+        ],
+        "answer": "Enable cheats in settings. Use commands like /gamemode, /give, /tp, and /time set for creative control or utility."
+    },
+    {
+        "question_keywords": [
+            "how to play multiplayer",
+            "join server",
+            "play with friends",
+            "lan",
+            "realms",
+            "online play"
+        ],
+        "answer": "You can join friends via Xbox Live, local LAN, or Realms. Add server IPs in the Servers tab for custom servers."
+    },
+    {
+        "question_keywords": [
+            "how to use redstone",
+            "redstone circuits",
+            "redstone guide",
+            "redstone basics",
+            "make piston door",
+            "redstone lamp"
+        ],
+        "answer": "Redstone powers devices. Use redstone dust, levers, buttons, repeaters, and comparators to build circuits and contraptions."
+    },
+    {
+        "question_keywords": [
+            "how to get XP",
+            "gain experience",
+            "level up",
+            "XP farm",
+            "how to earn experience",
+            "enchanting XP"
+        ],
+        "answer": "You gain XP from mining, smelting, killing mobs, breeding animals, and fishing. XP is used for enchanting."
+    },
+    {
+        "question_keywords": [
+            "how to fish",
+            "how to use fishing rod",
+            "fishing",
+            "catch fish",
+            "fishing guide"
+        ],
+        "answer": "Craft a fishing rod with sticks and string, right click to cast into water, and wait for a bobber splash to catch fish."
+    },
+    {
+        "question_keywords": [
+            "how to smelt",
+            "how to cook",
+            "furnace",
+            "blast furnace",
+            "smoker",
+            "how to use furnace"
+        ],
+        "answer": "Place items in a furnace with fuel like coal or wood to smelt or cook. Use blast furnaces for ores and smokers for food."
+    },
+    {
+        "question_keywords": [
+            "who are you",
+            "what is your name",
+            "your name",
+            "what are you",
+            "assistant name",
+            "chatbot name"
+        ],
+        "answer": "My name is Gaben. Im an in game assistant designed to answer Minecraft Bedrock Edition questions directly in chat."
+    },
+    {
+        "question_keywords": [
+            "who created you",
+            "who made you",
+            "creator",
+            "developer",
+            "who is your creator",
+            "who built you"
+        ],
+        "answer": "I was created by Jukepolice. You can find more about them at https://github.com/Jukepolice."
+    },
+    {
+        "question_keywords": [
+            "what do you do",
+            "what is your purpose",
+            "why were you made",
+            "what are you for",
+            "how do you help",
+            "your job"
+        ],
+        "answer": "Im here to help players by answering questions about Minecraft Bedrock Edition inside the in game chat."
+    }
+]
